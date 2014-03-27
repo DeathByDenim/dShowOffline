@@ -1,1 +1,26 @@
-{ "author" : "DeathByDenim", "build" : "62519", "category" : [ "ui" ], "context" : "client", "date" : "2014/03/10", "description" : "Shows on-line status of players.", "display_name" : "Show Offline", "enabled" : true, "forum" : "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/", "icon" : "http://pamods.github.io/icons/dShowOffline.png", "id" : "dShowOffline", "identifier" : "com.pa.DeathByDenim.dShowOffline", "priority" : 90, "requires" : null, "scenes" : { "live_game" : [ "coui://ui/mods/dShowOffline/dShowOffline.js" ] }, "signature" : "not yet implemented", "version" : "1.0" }
+{
+	"author" : "DeathByDenim",
+	"build" : "63234",
+	"category" : [ "ui" ],
+	"context" : "client",
+	"date" : "2014/03/27",
+	"description" : "Shows on-line status of fellow players.",
+	"description_nl" : "Toont de on-line status van de medespelers.",
+	"description_de" : "Zeigen Sie den on-line Status der Mitspieler.",
+	"description_fr" : "Montrez-vous l'état on-line des conjoueurs.",
+	"display_name" : "Show Offline",
+	"display_name_nl" : "Offline tonen",
+	"display_name_de" : "Offline zeigen",
+	"display_name_fr" : "Montrer Offline",
+	"enabled" : true,
+	"forum" : "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
+	"icon" : "http://pamods.github.io/icons/dShowOffline.png",
+	"id" : "dShowOffline",
+	"identifier" : "com.pa.DeathByDenim.dShowOffline",
+	"priority" : 100,
+	"scenes" : {
+		"live_game" : [ "coui://ui/mods/dShowOffline/dShowOffline.js" ]
+	},
+	"signature" : "not yet implemented",
+	"version" : "1.0"
+}
